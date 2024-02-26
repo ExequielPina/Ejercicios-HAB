@@ -16,8 +16,6 @@ public class Meteorologia {
             sumatemperaturas += temperaturaIngresada;
 
 
-
-
         }
         System.out.println("La media de los últimos 7 dias es:  " + sumatemperaturas/7);
 
