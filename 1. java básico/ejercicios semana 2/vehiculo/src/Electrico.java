@@ -1,0 +1,3 @@
+interface Electrico {
+    void cargarEnergia();
+}

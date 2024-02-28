@@ -1,0 +1,3 @@
+interface Combustion {
+    void recargarCombustible();
+}
