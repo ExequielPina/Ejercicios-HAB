@@ -15,7 +15,7 @@ public class Main {
         }
 
 
-        int asientosDisponibles = 50; // Supongamos que hay 50 asientos disponibles
+        int asientosDisponibles = 5;
         if (numAsientos > asientosDisponibles) {
             throw new ReservaInvalidaException("No hay suficientes asientos disponibles.");
         }
