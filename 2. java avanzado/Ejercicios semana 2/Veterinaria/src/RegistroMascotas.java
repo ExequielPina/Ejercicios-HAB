@@ -60,7 +60,7 @@ class RegistroMascotas {
         }
     }
 
-    
+
     private static String generarNombreAleatorio() {
         String[] nombres = {"Luna", "Buddy", "Max", "Daisy", "Rocky", "Bella", "Charlie", "Lucy", "Bailey", "Molly"};
         Random random = new Random();
